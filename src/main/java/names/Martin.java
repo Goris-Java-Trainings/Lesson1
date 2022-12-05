@@ -1,4 +1,4 @@
-package names1;
+package names;
 
 public class Martin {
 }
