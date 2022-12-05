@@ -6,5 +6,6 @@ public class Main {
         System.out.println("new change");
 
         System.out.println("commit from br1");
+        System.out.println("BR3");
     }
 }
