@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("commit from br1");
         System.out.println("commit BR2");
+        System.out.println("BR3");
     }
 }
